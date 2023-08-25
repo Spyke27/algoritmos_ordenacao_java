@@ -6,7 +6,7 @@ public class Insert {
 
 	public static void main(String[] args) {
 		Random random = new Random();
-        int[] arr = new int[10];
+        int[] arr = new int[1];
         
         //Povoando Array com números aleatórios
         for(int i = 0; i < arr.length; i++) {
